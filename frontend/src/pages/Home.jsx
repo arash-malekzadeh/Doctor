@@ -15,6 +15,7 @@ import videoIcon from "../assets/images/video-icon.png";
 import avatarIcon from "../assets/images/avatar-icon.png";
 import DoctorList from "./Doctors/DoctorList";
 import FaqList from "../components/faq/FaqList";
+import Testimonial from "../components/Testimonial";
 const Home = () => {
   return (
     <>
@@ -267,6 +268,26 @@ const Home = () => {
         </div>
       </section>
       {/*===============Faq Section End==========*/}
+
+      {/*===============Testimonial Section ==========*/}
+      <section>
+        <div className="container">
+          <div className="xl:w-[470px] mx-auto">
+            <h2 className="heading text-center">
+              {" "}
+              مراجعین درباره ما چه میگویند؟
+            </h2>
+            <p className="text__para text-center">
+              {" "}
+              "مراقبت در سطح جهانی برای همه. سیستم بهداشت ما مراقبت‌های بهداشتی
+              بی‌نظیر و تخصصی ارائه می‌دهد."
+            </p>
+          </div>
+          <Testimonial />
+        </div>
+      </section>
+
+      {/*===============Testimonial Section End ==========*/}
     </>
   );
 };
