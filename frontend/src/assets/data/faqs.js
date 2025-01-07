@@ -1,27 +1,27 @@
 export const faqs = [
   {
-    question: "What is your medical care?",
+    question: "خدمات پزشکی شما چیست؟",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "وان مدیکال بر اساس یک مدل بهتر مراقبت تأسیس شده است، مدلی که حول نیازهای بیماران طراحی شده و سطح بالاتری از کیفیت و خدمات را به صورت مقرون‌به‌صرفه ارائه می‌دهد. ما این کار را از طریق طراحی نوآورانه، خدمات عالی به مشتریان و استفاده کارآمد از فناوری انجام می‌دهیم.",
   },
   {
-    question: "What happens if I need to go a hospital?",
+    question: "اگر نیاز به مراجعه به بیمارستان داشته باشم چه اتفاقی می‌افتد؟",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "وان مدیکال بر اساس یک مدل بهتر مراقبت تأسیس شده است، مدلی که حول نیازهای بیماران طراحی شده و سطح بالاتری از کیفیت و خدمات را به صورت مقرون‌به‌صرفه ارائه می‌دهد. ما این کار را از طریق طراحی نوآورانه، خدمات عالی به مشتریان و استفاده کارآمد از فناوری انجام می‌دهیم.",
   },
   {
-    question: "What happens if I need to go a hospital?",
+    question: "اگر نیاز به مراجعه به بیمارستان داشته باشم چه اتفاقی می‌افتد؟",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "وان مدیکال بر اساس یک مدل بهتر مراقبت تأسیس شده است، مدلی که حول نیازهای بیماران طراحی شده و سطح بالاتری از کیفیت و خدمات را به صورت مقرون‌به‌صرفه ارائه می‌دهد. ما این کار را از طریق طراحی نوآورانه، خدمات عالی به مشتریان و استفاده کارآمد از فناوری انجام می‌دهیم.",
   },
   {
-    question: "Can I visit your medical office?",
+    question: "آیا می‌توانم از دفتر پزشکی شما بازدید کنم؟",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "وان مدیکال بر اساس یک مدل بهتر مراقبت تأسیس شده است، مدلی که حول نیازهای بیماران طراحی شده و سطح بالاتری از کیفیت و خدمات را به صورت مقرون‌به‌صرفه ارائه می‌دهد. ما این کار را از طریق طراحی نوآورانه، خدمات عالی به مشتریان و استفاده کارآمد از فناوری انجام می‌دهیم.",
   },
   {
-    question: "Does you provide urgent care?",
+    question: "آیا خدمات اورژانسی ارائه می‌دهید؟",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "وان مدیکال بر اساس یک مدل بهتر مراقبت تأسیس شده است، مدلی که حول نیازهای بیماران طراحی شده و سطح بالاتری از کیفیت و خدمات را به صورت مقرون‌به‌صرفه ارائه می‌دهد. ما این کار را از طریق طراحی نوآورانه، خدمات عالی به مشتریان و استفاده کارآمد از فناوری انجام می‌دهیم.",
   },
 ];
