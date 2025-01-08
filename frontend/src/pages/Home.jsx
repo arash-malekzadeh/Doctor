@@ -24,10 +24,10 @@ const Home = () => {
           <div className="flex flex-col lg:flex-row gap-[90px] items-center justify-between">
             <div>
               <div className="lg:w-[570px]">
-                <h1 className="text-[32px] leading-[46px] md:text-[60px] md:leading-[70px] font-[600] text-headingColor ">
+                <h1 className="text-[32px] text-justify leading-[46px] md:text-[60px] md:leading-[70px] font-[600] text-headingColor ">
                   ما به بیماران برای یک زندگی سالم و مفید کمک می کنیم.
                 </h1>
-                <p className="text__para">
+                <p className="text__para text-justify">
                   لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
                   استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و
                   مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی
