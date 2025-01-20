@@ -14,7 +14,7 @@ const Signup = () => {
     role: "",
   });
   const handleInputChange = (e) => {
-    setFormData({ ...formData, [e.taget.name]: e.target.value });
+    setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
   const handleFileInputChange = async (event) => {
